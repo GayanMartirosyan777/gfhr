@@ -1,0 +1,201 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    font-family: "TT Hoves", sans-serif;
+    color: #737373;
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    max-width: 1330px;
+    padding-top: 50px;
+    margin: 0 auto;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.menu li {
+    margin-left: 65px;
+}
+
+.menu li a {
+    color: #252b42;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    border-bottom: 1px solid;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    border-top: 1px solid;
+}
+
+.galereya {
+    margin-left: 30px;
+}
+
+.txt p {
+    padding-left: 300px;
+    padding-right: 319px;
+    padding-top: 100px;
+    font-size: 70px;
+    color: #969696;
+}
+
+.txt h1 {
+    padding-left: 300px;
+    font-size: 80px;
+}
+
+
+.linya_1 {
+    border-bottom: 1px solid;
+    opacity: 0.1;
+    margin-right: 325px;
+    margin-left: 295px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+}
+.flex{
+    padding-left: 337px;
+    padding-top: 35px;
+}
+.dd p{
+    padding-top: 30px;
+    font-size: 18px;
+}
+.dd h4 {
+    padding-top: 30px;
+    font-size: 18px;
+}
+.dsds2 {
+    margin-top: 30px;
+    padding-bottom: 150px;
+    margin-top: 60px;
+}
+.link_readg2 {
+    background-color: #020202;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding: 25px 50px;
+    text-decoration: none;
+}
+.dfr {
+    margin-left: 1000px;
+    margin-top: -620px;
+}
+.black {
+    background-color: #000000;
+    padding-bottom: 150px;
+    margin-top: 120px;
+    display: flex;
+    padding-top: 100px;
+}
+
+.foto_black {
+    padding: 116px;
+    padding-top: 88px;
+}
+
+.info_all {
+    display: flex;
+}
+
+.info_one {
+    color: #ffffff;
+    margin-left: 200px;
+}
+
+.isb {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.tdb {
+    list-style: none;
+    line-height: 3;
+    padding-top: 30px;
+}
+
+.info_two {
+    color: #ffffff;
+    padding-left: 200px;
+}
+
+.text_1all {
+    display: flex;
+    padding-top: 50px;
+}
+
+.text_1 {
+    padding-left: 20px;
+    color: #ffffff;
+}
+
+.st_1 {
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.text_2all {
+    display: flex;
+    padding-top: 70px;
+}
+
+.nt {
+    padding-left: 15px;
+}
+
+.gmail {
+    padding-left: 12px;
+}
+
+.text_gmail {
+    display: flex;
+    padding-top: 50px;
+}
+
+.gmail {
+    padding-left: 12px;
+}
+
+.text_3 {
+    color: #ffffff;
+    padding-left: 153px;
+}
+
+.img_3 {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 140px;
+    justify-content: space-between;
+}
+
+.qwer {
+    border-bottom: 1px solid;
+    opacity: 0.1;
+}
+
+.DOBKA {
+    background-color: #000000;
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+.DOBKA p {
+    color: #868282;
+}
